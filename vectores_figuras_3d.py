@@ -1,4 +1,4 @@
-num_vertices = int(input("Ingrese el número de vértices: "))
+    num_vertices = int(input("Ingrese el número de vértices: "))
     vertices = []
 
     for i in range(num_vertices):
