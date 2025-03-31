@@ -1,5 +1,4 @@
-def main():
-    num_vertices = int(input("Ingrese el número de vértices: "))
+num_vertices = int(input("Ingrese el número de vértices: "))
     vertices = []
 
     for i in range(num_vertices):
@@ -19,6 +18,3 @@ def main():
 
     for f in faces:
         print("f", " ".join(map(str, f)))
-
-if __name__ == "__main__":
-    main()
