@@ -1,5 +1,5 @@
 ALEJANRO MORENO LACHARME - SEBASTIÁN GARCÍA CONTRERAS
-#Documentación del Código en C++
+# Documentación del Código en C++
 
 Descripción del Programa
 Este programa en C++ permite registrar los vértices y caras de una figura geométrica en 3D. Luego, imprime la figura en el formato OBJ, un estándar en gráficos 3D.
@@ -156,7 +156,7 @@ Compilar en C++ (g++)
 Ejecutar
 ./programa
 
-#Documentación del Código en Python
+# Documentación del Código en Python
 
 Descripción del Programa
 Este programa en Python permite registrar los vértices y caras de una figura geométrica en 3D. Luego, imprime la figura en el formato OBJ, un estándar en gráficos 3D utilizado en modelado y animación.
